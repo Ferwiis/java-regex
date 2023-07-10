@@ -3,3 +3,4 @@ Interfaz de usuario mediante la cual el usuario ingresa una cadena de entrada en
 - __Lenguaje:__ Java
 - __Versión:__ JDK 7 SE
 - __Ejecutable__: ..\dist\ExpresionesRegulares.jar
+- __Guia de usuario__: No
